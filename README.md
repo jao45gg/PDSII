@@ -4,4 +4,4 @@
 ### Here's Department of Computer Science [LinkedIn](https://www.linkedin.com/school/dcc-ufmg/)
 ### Here's the UFMG [LinkedIn](https://www.linkedin.com/school/ufmg/)
 ## How's the repository organized?
-- 
+- Each paste, vpl1 to vpl11, contains activities i did during the class. Unfortunately, i'm not able to provide documentation about it for now.
